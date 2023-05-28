@@ -13,6 +13,8 @@ public class cDecimalComparison {
 
     }
 
+    //there are multiple approaches to solving this question, I just stuck with the most feasible one. Though I just wanted to play around with the strings
+
 //    public static boolean areEqualByThreeDecimalPlaces(double num1, double num2){
 //
 //        String decimalsNum1 = String.valueOf(num1);
